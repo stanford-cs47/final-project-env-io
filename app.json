@@ -1,7 +1,8 @@
 {
+  "owner": "cade-stanford",
   "expo": {
-    "name": "CS 47 Final Project",
-    "slug": "finalProject",
+    "name": "env.io",
+    "slug": "Envio",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +26,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Env.io - Have fun going green!"
   }
 }
