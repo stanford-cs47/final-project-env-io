@@ -237,7 +237,7 @@ const styles = StyleSheet.create({
 
   storeContainer: {
     flexGrow: 1,
-    width: Dimensions.get('window').get - 2,
+    width: Dimensions.get('window').width - 2,
     borderRadius: 10,
     borderWidth: 2,
     borderColor: 'gray',
